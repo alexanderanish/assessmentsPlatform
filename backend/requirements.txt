@@ -1,0 +1,5 @@
+fastapi
+fastapi-users[mongodb]
+uvicorn[standard]
+python-dotenv
+motor
