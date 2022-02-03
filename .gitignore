@@ -12,3 +12,6 @@ __pycache__/
 
 #general
 .DS_Store
+
+#local data folder
+data/
